@@ -1,9 +1,5 @@
 """
-Unclassified
-
  V1.0 - 30 August 2018
-
-Creates bold headers for SLUR-P and other Python Scripts
 
 Note! This probably doesn't work as a standalone library, especially called from a different script
 """
